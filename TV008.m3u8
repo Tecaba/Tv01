@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,AE Mundo
 http://200.123.15.181:6011/play/a011/index.m3u8
+#EXTINF:-1,COSMO
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1653023666.m3u8
+#EXTINF:-1,COSMO
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1,AMC HD
 http://200.123.15.181:6011/play/a02s/index.m3u8
 #EXTINF:-1,ATV
