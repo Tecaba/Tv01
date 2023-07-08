@@ -23,6 +23,16 @@ http://200.123.15.181:6011/play/a00u/index.m3u8
 http://200.123.15.181:6011/play/a036/index.m3u8
 #EXTINF:-1,BabyFirst
 http://200.123.15.181:6011/play/a02h/index.m3u8
+#EXTINF:-1,Telenovelas
+http://200.106.124.162:8989/play/a11p/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://200.106.124.162:8989/play/a0oc/index.m3u8
+#EXTINF:-1,Movistar Plus
+http://200.106.124.162:8989/play/a0tc/index.m3u8
+#EXTINF:-1,RPP
+http://200.106.124.162:8989/play/a10x/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://200.106.124.162:8989/play/a0mv/index.m3u8
 #EXTINF:-1,CANAL N
 http://200.123.15.181:6011/play/a03e/index.m3u8
 #EXTINF:-1,CNN Chile
@@ -169,3 +179,9 @@ http://200.123.15.181:6011/play/a01d/index.m3u8
 http://200.123.15.181:6011/play/a00v/index.m3u8
 #EXTINF:-1,Zona Latina
 http://200.123.15.181:6011/play/a028/index.m3u8
+#EXTINF:-1,HTV
+http://200.106.124.162:8989/play/a0zb/index.m3u8
+#EXTINF:-1,La Red HD
+http://200.106.124.162:8989/play/a0t5/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://200.106.124.162:8989/play/a0mv/index.m3u8
