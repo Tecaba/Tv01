@@ -7,12 +7,12 @@ https://video03.logicahost.com.br/soltv/soltv/chunklist_w1653023666.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1,AMC HD
 http://200.123.15.181:6011/play/a02s/index.m3u8
-#EXTINF:-1,ATV
-http://45.71.252.29:8000/play/a00n/index.m3u8
 #EXTINF:-1,ATV+ Noticias HD
 http://38.43.140.212:8000/play/a03w/index.m3u8
 #EXTINF:-1,AXN
 http://200.123.15.181:6011/play/a01q/index.m3u8
+#EXTINF:-1,ATV
+http://45.71.252.29:8000/play/a00n/index.m3u8
 #EXTINF:-1,LIGA 1 MAX
 http://200.123.15.181:6011/play/a03c/index.m3u8
 #EXTINF:-1,AZ Cinema HD
