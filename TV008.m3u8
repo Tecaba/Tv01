@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,AMC HD
 http://177.53.153.21:8001/play/a039/index.m3u8
-#EXTINF:-1,ATRES SERIES HD
-http://177.53.153.21:8001/play/a02g/index.m3u8
 #EXTINF:-1,ATV
 http://177.53.153.21:8001/play/a00z/index.m3u8
 #EXTINF:-1,ATV SUR HD
@@ -10,9 +8,7 @@ http://177.53.153.21:8001/play/a0ba/index.m3u8
 #EXTINF:-1,AXN HD
 http://177.53.153.21:8001/play/a01v/index.m3u8
 #EXTINF:-1,AZ Cinema HD
-http://177.53.153.21:8001/play/a03h/index.m3u8
-#EXTINF:-1,AZ click HD
-http://177.53.153.21:8001/play/a091/index.m3u8
+http://177.53.153.21:8001/play/a03h/index.m3u
 #EXTINF:-1,America TV HD
 http://177.53.153.21:8001/play/a03w/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -25,8 +21,6 @@ http://177.53.153.21:8001/play/a04t/index.m3u8
 http://177.53.153.21:8001/play/a05n/index.m3u8
 #EXTINF:-1,Az Mundo
 http://177.53.153.21:8001/play/a086/index.m3u8
-#EXTINF:-1,BBC News
-http://177.53.153.21:8001/play/a060/index.m3u8
 #EXTINF:-1,Baby First
 http://177.53.153.21:8001/play/a078/index.m3u8
 #EXTINF:-1,Baby TV
@@ -45,8 +39,6 @@ http://177.53.153.21:8001/play/a05h/index.m3u8
 http://177.53.153.21:8001/play/a0a9/index.m3u8
 #EXTINF:-1,Cinemax HD
 http://177.53.153.21:8001/play/a02h/index.m3u8
-#EXTINF:-1,Clover HD
-http://177.53.153.21:8001/play/a020/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://177.53.153.21:8001/play/a02i/index.m3u8
 #EXTINF:-1,DHE HD
@@ -188,9 +180,7 @@ http://177.53.153.21:8001/play/a010/index.m3u8
 #EXTINF:-1,RPP
 http://177.53.153.21:8001/play/a01d/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
-http://177.53.153.21:8001/play/a022/index.m3u8
-#EXTINF:-1,STAR TVE HD
-http://177.53.153.21:8001/play/a03g/index.m3u8
+http://177.53.153.21:8001/play/a022/index.m3u
 #EXTINF:-1,Sony HD
 http://177.53.153.21:8001/play/a01t/index.m3u8
 #EXTINF:-1,Sony Movies HD
@@ -199,8 +189,6 @@ http://177.53.153.21:8001/play/a06i/index.m3u8
 http://177.53.153.21:8001/play/a01w/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://177.53.153.21:8001/play/a03f/index.m3u8
-#EXTINF:-1,Sun Channel HD
-http://177.53.153.21:8001/play/a02n/index.m3u8
 #EXTINF:-1,TNT HD
 http://177.53.153.21:8001/play/a02b/index.m3u8
 #EXTINF:-1,TNT SPORTS HD
